@@ -2,7 +2,7 @@
 
 **`FUTURO ESTUDANDE DE ADS`**
 
-Me chamo Wanderson, tenho 23 anos e sou natural Belem do Pará. Com o curso técnico em informática. Sou apaixonado por tecnologia.
+ apaixonado por tecnologia.
 
 <p align="left">
     </a> 
